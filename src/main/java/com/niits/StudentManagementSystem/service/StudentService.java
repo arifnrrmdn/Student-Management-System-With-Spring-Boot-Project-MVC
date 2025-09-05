@@ -1,0 +1,11 @@
+package com.niits.StudentManagementSystem.service;
+
+import java.util.List;
+
+import com.niits.StudentManagementSystem.entity.Student;
+
+public interface StudentService {
+	
+	public List<Student> getAllStudents(); 
+	
+}
