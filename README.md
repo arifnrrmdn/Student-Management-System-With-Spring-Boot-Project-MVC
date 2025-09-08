@@ -53,3 +53,5 @@ It allows basic CRUD (Create, Read, Update, Delete) operations on student data.
    http://localhost:8080/students
 
 ## Screenshot
+![](https://github.com/arifnrrmdn/Student-Management-System-With-Spring-Boot-Project-MVC/blob/main/screenshot/1.png)
+![](https://github.com/arifnrrmdn/Student-Management-System-With-Spring-Boot-Project-MVC/blob/main/screenshot/2.png)
